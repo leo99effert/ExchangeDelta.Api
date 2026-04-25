@@ -1,0 +1,6 @@
+@ExchangeDelta.Api_HostAddress = http://localhost:5077
+
+GET {{ExchangeDelta.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
