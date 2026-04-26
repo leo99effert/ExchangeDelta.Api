@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="ExchangeDelta.Api.csproj" />
+  <Project Path="ExchangeDelta.Tests/ExchangeDelta.Tests.csproj" Id="f3d336f9-b763-4e12-ba27-1aaf08f35bdd" />
 </Solution>
